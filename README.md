@@ -9,8 +9,8 @@
 ### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/cisco.png)
 ### Пинг и соединения все равно проходили, настройки и скриншоты представлены
 ### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/ping.png)
-### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router1_show_stand.png.png)
-### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router2_show_stand.png.png)
+### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router1_show_stand.png)
+### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router2_show_stand.png)
 ## Задание 2
 ### Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
 ### Настройте любой веб-сервер (например, nginx или simple python server) на двух виртуальных машинах
