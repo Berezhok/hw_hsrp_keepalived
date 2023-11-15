@@ -6,11 +6,11 @@
 ### Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 ### На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 ### Был отключен порт верхнего роутера, у которого приоритет выше изначально
-### []!(https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/cisco.png)
+### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/cisco.png)
 ### Пинг и соединения все равно проходили, настройки и скриншоты представлены
-### []!(https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/ping.png)
-### []!(https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router1_show_stand.png.png)
-### []!(https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router2_show_stand.png.png)
+### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/ping.png)
+### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router1_show_stand.png.png)
+### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/router2_show_stand.png.png)
 ## Задание 2
 ### Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
 ### Настройте любой веб-сервер (например, nginx или simple python server) на двух виртуальных машинах
