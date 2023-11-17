@@ -1,4 +1,4 @@
-# Задание по теме "ОТКАЗОУСТОЙЧИВОСТЬ семейство протоколов FHRP" 
+# Задание по теме "ОТКАЗОУСТОЙЧИВОСТЬ семейство протоколов FHRP" Бережок Антон
 ## Задание 1
 ### Дана схема для Cisco Packet Tracer, рассматриваемая в лекции.
 ### На данной схеме уже настроено отслеживание интерфейсов маршрутизаторов Gi0/1 (для нулевой группы)
@@ -21,4 +21,5 @@
 ### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/conf_BACKUP.png)
 ### При нормальной работе у МАСТЕРА отображается плавающий ip
 ### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/master_ip_float+.png)
+### При остановке сервиса Nginx VirtualIp исчезает из списка MASTERA
 ### ![](https://github.com/Berezhok/hw_hsrp_keepalived/blob/main/img/master_ip_float_no.png)
